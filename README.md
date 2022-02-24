@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanareddy0805
 - 👀 I’m interested in Front End Development...
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramanareddylpu@gmail.com
 
