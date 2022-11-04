@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanareddy0805
 - 👀 I’m interested in Front End Development...
-- 🌱 I’m currently learning React JS..
+- 🌱 I’m currently learning Nodejs and ExpressJS..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramanareddylpu@gmail.com
 
